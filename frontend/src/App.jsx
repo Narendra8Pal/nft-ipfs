@@ -80,6 +80,7 @@ export default function Home() {
 
   // i made this change in vs code git source control 
 
+	// and now making this change in vi of bash
   /**
    * Returns a Provider or Signer object representing the Ethereum RPC with or without the
    * signing capabilities of metamask attached
