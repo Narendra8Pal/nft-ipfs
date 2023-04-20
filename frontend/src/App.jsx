@@ -78,7 +78,7 @@ export default function Home() {
   };
 
 
-  // i made this change in vs code git source control 
+
 // the changes you make in git source control can be pushed on git hub using terminal??
 
 
