@@ -80,7 +80,7 @@ export default function Home() {
 
 
 // the changes you make in git source control can be pushed on git hub using terminal??
-
+// what's the use of git pull origin master
 
 	// and now making this change in vi of bash
 // will be deleting all these changes and commits 
