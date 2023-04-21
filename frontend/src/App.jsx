@@ -83,6 +83,8 @@ export default function Home() {
 
 
 	// and now making this change in vi of bash
+// will be deleting all these changes and commits 
+
   /**
    * Returns a Provider or Signer object representing the Ethereum RPC with or without the
    * signing capabilities of metamask attached
